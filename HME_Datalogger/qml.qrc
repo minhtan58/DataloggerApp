@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Ui/Images/backspace_normal.png</file>
+        <file>Ui/Images/backspace_press.png</file>
+        <file>Ui/Images/calendar.png</file>
+        <file>Ui/Images/home_active.png</file>
+        <file>Ui/Images/home_inactive.png</file>
+        <file>Ui/Images/logo_hme.png</file>
+        <file>Ui/Screen/icp_common_popup.qml</file>
+        <file>Ui/Screen/icp_connect_popup.qml</file>
+        <file>Ui/Screen/icp_disconnect_popup.qml</file>
+        <file>Ui/Screen/ics_connection_network.qml</file>
+        <file>Ui/Screen/ics_connection_portcom.qml</file>
+        <file>Ui/Screen/ics_sensor_status.qml</file>
+        <file>Ui/Screen/ics_home.qml</file>
+        <file>Ui/Screen/ics_login_form.qml</file>
+        <file>Ui/Screen/ics_settings_overview.qml</file>
+        <file>Ui/Screen/ics_settings_serialport.qml</file>
+        <file>Ui/Screen/ics_topbar.qml</file>
+        <file>Ui/Screen/ics_view_data_history.qml</file>
+        <file>Ui/Widget/DataHistoryDelegate.qml</file>
+        <file>Ui/Widget/QButton.qml</file>
+        <file>Ui/Widget/QComboBox.qml</file>
+        <file>Ui/Widget/QDatePicker.qml</file>
+        <file>Ui/Widget/QLeftTabView.qml</file>
+        <file>Ui/Widget/QListView.qml</file>
+        <file>Ui/Widget/QTabDelegate.qml</file>
+        <file>Ui/Widget/QText.qml</file>
+        <file>Ui/Widget/QViewWidget.qml</file>
+        <file>Ui/Widget/CButton.qml</file>
+        <file>Ui/Screen/ics_settings_io.qml</file>
+        <file>Ui/Widget/QTabWidget.qml</file>
+        <file>Ui/Widget/QTextInput.qml</file>
+        <file>Ui/Widget/QSpinBox.qml</file>
+        <file>Ui/Screen/ics_settings_system.qml</file>
+        <file>Ui/Images/background.png</file>
+        <file>fontawesome-webfont.ttf</file>
+        <file>Ui/Screen/ics_settings_transmission.qml</file>
+        <file>Ui/Widget/QSwitch.qml</file>
+        <file>Ui/Screen/ics_setting_alarm.qml</file>
+        <file>Ui/Widget/QCheckbox.qml</file>
+        <file>Ui/Widget/SwitchButton.qml</file>
+        <file>Ui/Screen/backend.js</file>
+    </qresource>
+</RCC>
